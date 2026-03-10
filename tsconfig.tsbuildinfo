@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/supabaseclient.ts","./src/vite-env.d.ts","./src/pages/admindashboard.tsx","./src/pages/hostcontroller.tsx","./src/pages/joinscreen.tsx","./src/pages/playscreen.tsx","./src/pages/quizeditor.tsx","./src/types/database.types.ts"],"version":"5.9.3"}
